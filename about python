@@ -1,0 +1,69 @@
+hello everybody in this page i will tell you about python programing language.
+in this page i will tell you about python programing language and in next page i will tell you about meaning of python and use of python 
+lets start:
+1.python programming language is developed by guido van rossom in 1991 and python is developed before java programming language
+about python:
+Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. 
+Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together.
+Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance.
+Python supports modules and packages, which encourages program modularity and code reuse. 
+The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed.
+Often, programmers fall in love with Python because of the increased productivity it provides.
+Since there is no compilation step, the edit-test-debug cycle is incredibly fast. 
+Debugging Python programs is easy: a bug or bad input will never cause a segmentation fault.
+Instead, when the interpreter discovers an error, it raises an exception. 
+When the program doesn't catch the exception, the interpreter prints a stack trace.
+A source level debugger allows inspection of local and global variables, evaluation of arbitrary expressions, setting breakpoints, stepping through the code a line at a time, and so on. 
+The debugger is written in Python itself, testifying to Python's introspective power. 
+On the other hand, often the quickest way to debug a program is to add a few print statements to the source: the fast edit-test-debug cycle makes this simple approach very effective.
+features of python:
+
+Python provides many useful features which make it popular and valuable from the other programming languages. It supports object-oriented programming, procedural programming approaches and provides dynamic memory allocation. We have listed below a few essential features.
+
+1) Easy to Learn and Use
+Python is easy to learn as compared to other programming languages. Its syntax is straightforward and much the same as the English language. There is no use of the semicolon or curly-bracket, the indentation defines the code block. It is the recommended programming language for beginners.
+
+2) Expressive Language
+Python can perform complex tasks using a few lines of code. A simple example, the hello world program you simply type print("Hello World"). It will take only one line to execute, while Java or C takes multiple lines.
+
+3) Interpreted Language
+Python is an interpreted language; it means the Python program is executed one line at a time. The advantage of being interpreted language, it makes debugging easy and portable.
+
+4) Cross-platform Language
+Python can run equally on different platforms such as Windows, Linux, UNIX, and Macintosh, etc. So, we can say that Python is a portable language. It enables programmers to develop the software for several competing platforms by writing a program only once.
+
+5) Free and Open Source
+Python is freely available for everyone. It is freely available on its official website www.python.org. It has a large community across the world that is dedicatedly working towards make new python modules and functions. Anyone can contribute to the Python community. The open-source means, "Anyone can download its source code without paying any penny."
+
+6) Object-Oriented Language
+Python supports object-oriented language and concepts of classes and objects come into existence. It supports inheritance, polymorphism, and encapsulation, etc. The object-oriented procedure helps to programmer to write reusable code and develop applications in less code.
+
+7) Extensible
+It implies that other languages such as C/C++ can be used to compile the code and thus it can be used further in our Python code. It converts the program into byte code, and any platform can use that byte code.
+
+8) Large Standard Library
+It provides a vast range of libraries for the various fields such as machine learning, web developer, and also for the scripting. There are various machine learning libraries, such as Tensor flow, Pandas, Numpy, Keras, and Pytorch, etc. Django, flask, pyramids are the popular framework for Python web development.
+
+9) GUI Programming Support
+Graphical User Interface is used for the developing Desktop application. PyQT5, Tkinter, Kivy are the libraries which are used for developing the web application.
+
+10) Integrated
+It can be easily integrated with languages like C, C++, and JAVA, etc. Python runs code line by line like C,C++ Java. It makes easy to debug the code.
+
+11. Embeddable
+The code of the other programming language can use in the Python source code. We can use Python source code in another programming language as well. It can embed other language into our code.
+
+12. Dynamic Memory Allocation
+In Python, we don't need to specify the data-type of the variable. When we assign some value to the variable, it automatically allocates the memory to the variable at run time. Suppose we are assigned integer value 15 to x, then we don't need to write int x = 15. Just write x = 15.
+
+ADVANTAGES:
+1) Presence of third-party modules
+2) Extensive support libraries(NumPy for numerical calculations, Pandas for data analytics etc)
+3) Open source and community development
+4) Easy to learn
+5) User-friendly data structures
+6) High-level language
+7) Dynamically typed language(No need to mention data type based on value assigned, it takes data type)
+8) Object-oriented language
+9) Portable and Interactive
+10) Portable across Operating systems
